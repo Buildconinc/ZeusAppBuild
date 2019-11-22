@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Group 12 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.597749256">
+        <g id="4-jobs" transform="translate(-163.000000, -253.000000)" stroke="#9B9B9B">
+            <g id="Group-12-Copy-4" transform="translate(164.000000, 254.000000)">
+                <g id="Group-12-Copy">
+                    <circle id="Oval-Copy-3" cx="8" cy="8" r="8"></circle>
+                    <g id="Group-11" transform="translate(4.363636, 4.363636)">
+                        <path d="M6.26086957,1.04347826 L5.97913043,6.67826087 C5.94208696,7.4186087 5.33095652,8 4.58956522,8 L2.36695652,8 C1.62556522,8 1.01443478,7.4186087 0.977391304,6.67826087 L0.695652174,1.04347826" id="Stroke-1"></path>
+                        <line x1="0" y1="1.04347826" x2="6.95652174" y2="1.04347826" id="Stroke-3"></line>
+                        <line x1="2.52173913" y1="2.43478261" x2="2.69565217" y2="6.26086957" id="Stroke-5"></line>
+                        <line x1="4.43478261" y1="2.43478261" x2="4.26086957" y2="6.26086957" id="Stroke-7"></line>
+                        <path d="M2.08695652,1.04347826 L2.27617391,0.475652174 C2.37095652,0.191652174 2.63669565,0 2.93617391,0 L4.02034783,0 C4.31982609,0 4.58556522,0.191652174 4.68034783,0.475652174 L4.86956522,1.04347826" id="Stroke-9"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

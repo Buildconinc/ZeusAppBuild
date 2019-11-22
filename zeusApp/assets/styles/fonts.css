@@ -1,0 +1,59 @@
+.font--xxl-10 {
+  font-size: 0.625rem;
+  line-height: 0.875rem;
+}
+.font--xxl-12 {
+  font-size: 0.75rem;
+  line-height: 1.83;
+}
+.font--xxl-14 {
+  font-size: 0.875rem;
+  line-height: 1.57;
+}
+.font--xxl-24 {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+.font--xxl-26 {
+  font-size: 1.625rem;
+  line-height: normal;
+}
+.font-italic {
+  font-style: italic;
+}
+.font-normal {
+  font-weight: 300;
+}
+.font-regular {
+  font-weight: 400;
+}
+.font-regular-imp {
+  font-weight: 400 !important;
+}
+.font-semibold {
+  font-weight: 400;
+}
+.font-bold {
+  font-weight: 600;
+}
+.font-bold-imp {
+  font-weight: 600 !important;
+}
+.color-grey {
+  color: #9b9b9b;
+}
+.color-grey-dark {
+  color: #3e3f42;
+}
+.color-blue {
+  color: #000070;
+}
+.color-blue-button {
+  color: #0000ff;
+}
+.color-white {
+  color: #ffffff;
+}
+.text-center {
+  text-align: center;
+}

@@ -1,0 +1,15 @@
+.border-grey {
+  border: 1px solid #f4f5f8;
+}
+.border--right-grey {
+  border-right: 1px solid #f4f5f8;
+}
+.border--top-grey {
+  border-top: 1px solid #f4f5f8;
+}
+.border--top-grey-light {
+  border-top: 1px solid #f4f5f8;
+}
+.border-radius {
+  border-radius: 4px;
+}

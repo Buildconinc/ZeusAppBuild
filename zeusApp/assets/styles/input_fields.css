@@ -1,0 +1,10 @@
+.input-mail {
+  background-image: url('../images/icons/mail.svg');
+  background-repeat: no-repeat;
+  background-position: 0.9em;
+}
+.input-password {
+  background-image: url('../images/icons/pass.svg');
+  background-repeat: no-repeat;
+  background-position: 0.9em;
+}
